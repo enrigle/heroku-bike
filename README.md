@@ -83,7 +83,7 @@ You should change bikes-model to whatever you named your Heroku app when you cre
 You can use the heroku open command to open your completed app in the web browser. 
 https://bikes-model.herokuapp.com/
   
-9. Close the app
+9. Close the app 
 There are 2 ways to remove the app:
     * 9.1. From the Heroku Web
     > Dashboard => Your App Name => Resources => Pencil icon=> Flip the switch => Confirm
