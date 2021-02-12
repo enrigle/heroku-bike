@@ -91,4 +91,4 @@ There are 2 ways to remove the app:
     > $ heroku ps:scale web=0*
         
 **Reference**: Blog for the web app built as part of this tutorial from Cambridge Spark: https://blog.cambridgespark.com/deploying-a-machine-learning-model-to-the-web-725688b851c7
-        
+         
