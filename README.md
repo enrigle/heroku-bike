@@ -88,7 +88,7 @@ There are 2 ways to remove the app:
     * 9.1. From the Heroku Web
     > Dashboard => Your App Name => Resources => Pencil icon=> Flip the switch => Confirm
     * 9.2. To completely stop your app you can scale the web dynos down to zero which effectively takes all your app http-processes offline.
-    > $ heroku ps:scale web=0*
+    > $ heroku ps:scale web=0* 
         
 **Reference**: Blog for the web app built as part of this tutorial from Cambridge Spark: https://blog.cambridgespark.com/deploying-a-machine-learning-model-to-the-web-725688b851c7
          
